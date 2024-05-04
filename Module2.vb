@@ -12,3 +12,7 @@ Sub clearData()
     Range("D8").ClearContents
     
 End Sub
+
+Sub display()
+    Debug.Print "Modified code"
+End Sub
